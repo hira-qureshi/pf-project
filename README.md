@@ -1,1 +1,1 @@
-This is my first ever programming projectg
+This is my first ever programming project
